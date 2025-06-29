@@ -1,4 +1,4 @@
 package com.start.common.exception;
 
-public class ApiException {
+public class ApiException extends Exception {
 }
